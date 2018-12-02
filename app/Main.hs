@@ -1,6 +1,6 @@
 module Main where
 
-import DayOne.ProblemOne   
+import DayTwo.ProblemTwo (problem1)
 
 main :: IO ()
 -- main = void $ traverse print (take 10 result2)
